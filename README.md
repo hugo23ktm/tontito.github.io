@@ -1,3 +1,3 @@
 # 23ktm.github.io
-print(bienvenido)
-print(bienvenido a mi pagina de hacking)
+# print "bienvenido a mi nueva pagina wep de hacking"
+
